@@ -1,5 +1,5 @@
 # iOS-11
-A collection of the demos and apps created on the iOS-11 Developer Course.
+A collection of some the demos and apps created on the iOS-11 Developer Course.
 
 Learn iOS 11 App Development From Beginning to End. Using Xcode 9 and Swift 4. Includes Full ARKit and CoreML Modules.
 
@@ -27,6 +27,6 @@ It's updated to include over 5 hours of content on Apple's brand new ARKit for m
 
 By the end of this course, you will be fluently programming in Swift 4 and be ready to make your own apps as an iOS developer.
 
-You'll also have a portfolio of over 20 apps.
+You'll have a portfolio of over 20 apps.
 
 For more information please visit the course [overview.](https://www.udemy.com/ios-11-app-development-bootcamp/)
