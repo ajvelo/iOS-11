@@ -7,3 +7,5 @@
 //
 
 import Foundation
+
+let key = "57960dbf40cd2e06c2b9a056080996ef"
